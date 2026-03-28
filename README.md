@@ -12,7 +12,8 @@ A simple Inventory Management and POS System designed for cafés to manage produ
 
 ## Tech Stack
 - Python  
-- SQL Database  
+- SQL Database
+- Php
 
 ## Usage
 1. Run the application  
